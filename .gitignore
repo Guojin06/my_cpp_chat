@@ -1,0 +1,16 @@
+# 编译产物
+server
+client
+*.o
+*.out
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系统文件
+.DS_Store
+
